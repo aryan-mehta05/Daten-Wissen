@@ -18,3 +18,7 @@ Download the files and host it locally to check the output.
 ![image](https://user-images.githubusercontent.com/75833072/129966313-a9b81953-b8e1-4cad-93aa-78286e984ff2.png)
 
 ![image](https://user-images.githubusercontent.com/75833072/129966342-d6db218e-743b-43bb-84a5-5305797704d3.png)
+
+# Sign Up Success Page
+
+![image](https://user-images.githubusercontent.com/75833072/129966498-30312b4d-332b-48ef-94d6-a71b522cd850.png)
