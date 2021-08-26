@@ -145,7 +145,7 @@ hr {
 }
 
 #press {
-    background: linear-gradient(#ef8172, #f0b537) ;
+    background-color: #ef8172; /* #f0b537 */
     padding-bottom: 3%;
 }
 
@@ -250,4 +250,13 @@ hr {
 #button.show {
     opacity: 1;
     visibility: visible;
+}
+
+/* Global designs */
+.border-top-left {
+    border-top-left-radius: 9% 12%;
+}
+
+.border-bottom-right {
+    border-bottom-right-radius: 9% 12%;
 }
